@@ -13,4 +13,9 @@ bang
 
     ### where "dark" means "unseen" instead of "unilluminated"###
 
-    rasuljib::: inshaalla "lishay bareli"
+    rasuljib::: inshaalla "lishay barel
+
+
+
+
+    p[gjia[ghjsdhigjsi"
