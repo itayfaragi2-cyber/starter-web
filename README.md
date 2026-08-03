@@ -9,4 +9,6 @@ bang
 
 
 
-#wow how good looking I am 
+#wow how good looking I am
+
+    ### where "dark" means "unseen" instead of "unilluminated"###
